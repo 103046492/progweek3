@@ -1,0 +1,11 @@
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.exe
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.deps.json
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.json
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.dev.json
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.dll
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.pdb
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfo.cs
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.dll
+C:\Users\103046492\Desktop\progweek3\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.pdb
